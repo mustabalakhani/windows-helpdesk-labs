@@ -100,7 +100,8 @@ The local user account should be created successfully with the requested adminis
 
 ## 5.5 Password change requirement
 
-<img width="1024" height="768" alt="VirtualBox_Windows 11_02_11_2026_22_31_" src="https://github.com/user-attachments/assets/e83f7a22-735c-4f5f-a0ab-7598861adc58" />
+<img width="1024" height="768" alt="VirtualBox_Windows 11_02_11_2026_23_19_21" src="https://github.com/user-attachments/assets/6c549bb6-1ff2-4fa1-a813-87cbdbc3441a" />
+
 
 
 ## 5.6 Administrators group membership 
