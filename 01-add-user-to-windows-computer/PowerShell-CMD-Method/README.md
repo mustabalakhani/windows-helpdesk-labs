@@ -124,8 +124,7 @@ The first command prompts for a password instead of displaying it in the command
 
 ## 5.6 Password-change setting verification.
 
-<img width="1033" height="768" alt="VirtualBox_Windows 11_02_11_2026_23_59_46" src="https://github.com/user-attachments/assets/419e16fb-d45d-44e8-9ede-d754b49464c5" />
-
+<img width="1024" height="768" alt="VirtualBox_Windows 11_02_11_2026_23_19_21" src="https://github.com/user-attachments/assets/2be5f74c-6d37-4a3e-a4bb-50038a899da3" />
 
 ### 6. Skills Practiced
 
