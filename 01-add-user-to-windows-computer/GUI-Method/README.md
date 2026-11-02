@@ -77,30 +77,29 @@ The local user account should be created successfully with the requested adminis
 
 ### 5. Screenshots and Evidence
 
-| Screenshot | Description |
-|---|---|
-| 01 | Computer Management opened |
+
+### 1.  Computer Management opened 
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_02_11_2026_22_28_58" src="https://github.com/user-attachments/assets/63108d8d-0f86-42ba-8699-db6144d644e9" />
 
-| 02 | Local Users and Groups |
+### 2.  Local Users and Groups 
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_02_11_2026_22_29_38" src="https://github.com/user-attachments/assets/eeca4b40-1823-4169-942c-b07cd4cd82a3" />
 
-| 03 | User Configuration |
+### 3. User Configuration
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_02_11_2026_22_31_44" src="https://github.com/user-attachments/assets/8c7d5c43-2e20-439b-9ebc-eb6ca2866552" />
 
-| 04 | Richard User Created |
+### 4. Richard User Created 
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_02_11_2026_22_32_15" src="https://github.com/user-attachments/assets/eb40c897-3ea4-40c0-ae00-2397710b9a7e" />
 
 
-| 05 | Password change requirement |
+### 5. Password change requirement
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_02_11_2026_22_31_" src="https://github.com/user-attachments/assets/e83f7a22-735c-4f5f-a0ab-7598861adc58" />
 
-| 06 | Administrators group membership |
+### 6. Administrators group membership 
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_02_11_2026_22_33_11" src="https://github.com/user-attachments/assets/c9b64007-a72e-4cbf-a5f5-0f8dffe7b6fc" />
 
